@@ -1,0 +1,8 @@
+Morza:
+>> Karaibskie, Norweskie, Północne, Bałtyckie, Śródziemnomorskie, Czarne, Czerwone, Arabskie, Południowochińskie, Żółte, Japońskie, Koralowe
+Jeziora:
+>> Morze Kaspijskie, Bajkał, Bałchasz, Aralskie, Wiktorii, Tanganika, Górne, Michigan, Huron
+Zatoki:
+>> Alaski, Hudsona, Meksykańska, Gwinejska, Bengalska, Perska
+Rzeki:
+>> Missisipi, Mackenzie, Amazonka, Parana, Nil, Kongo, Niger, Dunaj, Wołga, Ob, Jenisej, Jangcy, Żółta(Huang-he), Ganges, Mekong, Brahmaputra, Eufrat

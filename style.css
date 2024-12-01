@@ -1,0 +1,31 @@
+body {
+    margin: 0px
+}
+
+#map {
+    width: 100%;
+    height: 90vh;
+}
+
+#legenda {
+    display: flex;
+    gap: 15px;
+    flex-direction: row;
+    background-color: gray;
+}
+
+#morza {
+    color: blue;
+}
+
+#jeziora {
+    color: orange;
+}
+
+#zatoki {
+    color: green;
+}
+
+#rzeki {
+    color: red;
+}
