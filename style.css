@@ -12,6 +12,7 @@ body {
     gap: 15px;
     flex-direction: row;
     background-color: gray;
+    height: 10vh;
 }
 
 #morza {
@@ -27,5 +28,5 @@ body {
 }
 
 #rzeki {
-    color: red;
+    color: crimson;
 }
