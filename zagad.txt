@@ -1,5 +1,5 @@
 Morza:
->> Karaibskie, Norweskie, Północne, Bałtyckie, Śródziemnomorskie, Czarne, Czerwone, Arabskie, Południowochińskie, Żółte, Japońskie, Koralowe
+>> Karaibskie, Norweskie, Północne, Bałtyckie, Śródziemne, Czarne, Czerwone, Arabskie, Południowochińskie, Żółte, Japońskie, Koralowe
 Jeziora:
 >> Morze Kaspijskie, Bajkał, Bałchasz, Aralskie, Wiktorii, Tanganika, Górne, Michigan, Huron
 Zatoki:

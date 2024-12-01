@@ -60,7 +60,7 @@ var grenland = L.polygon([
     [31.007135, 19.204102],
     [33.313199, 21.928711],
 ]).addTo(map);
-grenland.bindPopup("Śródziemnomorskie");
+grenland.bindPopup("Śródziemne");
 
 var grenland = L.polygon([
     [46.494284, 31.025391],
@@ -1143,8 +1143,8 @@ var sahar = L.polygon([
 }).addTo(map);
 sahar.bindPopup("Eufrat");
 
-function onMapClick(e) {
-    alert("You clicked the map at " + e.latlng);
-}
+// function onMapClick(e) {
+//     alert("You clicked the map at " + e.latlng);
+// }
 
-map.on('click', onMapClick);
+// map.on('click', onMapClick);
